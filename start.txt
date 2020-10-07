@@ -1,3 +1,4 @@
 Test git initial commit
 editttt
 edittttttttttttt
+edited in git directly
